@@ -1,8 +1,8 @@
 {
-  "name": "starwars-names",
+  "name": "starwars-names-shihams",
   "version": "1.0.0",
   "description": "Get random star wars names",
-  "main": "require('starwars-names')",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
